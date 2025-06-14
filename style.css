@@ -1,0 +1,112 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+a{
+	color: rgb(0, 0, 0);
+	text-decoration: none;
+}
+header{
+	
+	background-color: rgb(192, 235, 220);
+	padding: 30px;
+	margin: 30px;
+	text-align: center;
+	color: rgb(0, 0, 0)
+}
+header h1{
+	font-size: 55px;
+	margin-bottom: 30px;
+	 font-family: "Monomaniac One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+header  nav ul{
+	display: flex;
+	justify-content: space-around;
+	list-style-type: none;
+	margin: auto;
+	font-family: "WDXL Lubrifont JP N", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 15px;
+}
+.hero img{
+	width: 100%;
+}
+.about{
+	background-color: white;
+	padding: 30px;
+	text-align: center;
+}
+.about h2{
+	font-size: 20px;
+	margin-bottom: 7px;
+	font-family: "WDXL Lubrifont JP N", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+section p{
+	 font-family: "Yuji Mai", serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 12px;
+  padding: 14px;
+}
+body {
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 10px;
+}
+aside{
+	background-color: black;
+	color: white;
+	text-align: center;
+	padding: 30px;
+	font-family: "WDXL Lubrifont JP N", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+aside h2{
+	font-size: 36px;
+}
+aside p{
+	margin-bottom: 20px;
+}
+aside img{
+	width: 150px;
+}
+aside .btn{
+	display: inline-block;
+	background-color: white;
+	padding: 20px 80px;
+	border: 5px; 
+	border: solid;
+	border-color: rgb(154, 247, 216);
+	font-size: 22px;
+}
+aside .btn2{
+	display: inline-block;
+	background-color: white;
+	padding: 18px 111px;
+	border: 5px; 
+	border: solid;
+	border-color: rgb(154, 247, 216);
+	font-size: 22px;
+	
+}
+aside .btn img{
+	width: 30px;
+	vertical-align: middle;
+	padding: 0%;
+}
+aside .btn2 img{
+	width: 30px;
+	vertical-align: middle;
+}
+footer{
+	font-size: 22px;
+	font-family: "Monomaniac One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
