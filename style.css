@@ -15,7 +15,7 @@ header{
 	color: rgb(0, 0, 0)
 }
 header h1{
-	font-size: 55px;
+	font-size: 4vw; /* 画面の幅に合わせる */
 	margin-bottom: 30px;
 	 font-family: "Monomaniac One", sans-serif;
   font-weight: 400;
@@ -29,7 +29,7 @@ header  nav ul{
 	font-family: "WDXL Lubrifont JP N", sans-serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 15px;
+  font-size: 4vw; /* 画面の幅に合わせる */
 }
 .hero img{
 	width: 100%;
@@ -40,7 +40,7 @@ header  nav ul{
 	text-align: center;
 }
 .about h2{
-	font-size: 20px;
+	font-size: 4vw; /* 画面の幅に合わせる */
 	margin-bottom: 7px;
 	font-family: "WDXL Lubrifont JP N", sans-serif;
   font-weight: 400;
@@ -50,7 +50,7 @@ section p{
 	 font-family: "Yuji Mai", serif;
   font-weight: 400;
   font-style: normal;
-  font-size: 12px;
+  font-size: 4vw; /* 画面の幅に合わせる */
   padding: 14px;
 }
 body {
